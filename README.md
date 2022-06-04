@@ -3,6 +3,8 @@
 
 #### _{Professional Portfolio}_
 
+### _Github: https://github.com/JBShaffer91/landing-page.git_
+
 ## Technologies Used
 
 * _HTML_
