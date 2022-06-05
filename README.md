@@ -12,7 +12,7 @@
 
 ## Description
 
-_{This is a web developer's website landing page. It's designed to quickly highligh projects the developer has produced as well as highlight what they can do based on the page itself.}_
+_{This is a web developer's website landing page. It's designed to quickly highlight projects the developer has produced as well as highlight what they can do based on the page itself.}_
 
 ## Setup/Installation Requirements
 
